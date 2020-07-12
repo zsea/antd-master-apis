@@ -1,0 +1,24 @@
+{
+  "name": "user-apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-bigint": "^0.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.11.0",
+    "koa-body": "^4.1.1",
+    "koa-router": "^8.0.8",
+    "linq2mysql": "0.0.14",
+    "log4js": "^6.2.1",
+    "md5": "^2.2.1",
+    "minimatch": "^3.0.4",
+    "moment": "^2.25.2"
+  }
+}
