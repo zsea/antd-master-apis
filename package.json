@@ -16,7 +16,7 @@
     "koa-body": "^4.1.1",
     "koa-router": "^8.0.8",
     "linq2mysql": "0.0.14",
-    "log4js": "^6.2.1",
+    "log4js": "^6.4.0",
     "md5": "^2.2.1",
     "minimatch": "^3.0.4",
     "moment": "^2.25.2"
